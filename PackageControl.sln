@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageControl", "PackageControl\PackageControl.csproj", "{E73D5818-175E-4EC0-BE71-C8BAAE21F5A4}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "PackageControlCab", "PackageControlCab\PackageControlCab.vddproj", "{DE28CDBA-6B08-4A3F-BD64-2104AA5CA23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCfLibrary", "NetCfLibrary\NetCfLibrary.csproj", "{8000BD0E-78C0-4FA7-84E6-056881DE0A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageService", "PackageService\PackageService.csproj", "{D0752503-C2AD-4463-B687-C8E6EEEC8839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73D5818-175E-4EC0-BE71-C8BAAE21F5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73D5818-175E-4EC0-BE71-C8BAAE21F5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73D5818-175E-4EC0-BE71-C8BAAE21F5A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E73D5818-175E-4EC0-BE71-C8BAAE21F5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73D5818-175E-4EC0-BE71-C8BAAE21F5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73D5818-175E-4EC0-BE71-C8BAAE21F5A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DE28CDBA-6B08-4A3F-BD64-2104AA5CA23F}.Debug|Any CPU.ActiveCfg = Debug
+		{DE28CDBA-6B08-4A3F-BD64-2104AA5CA23F}.Release|Any CPU.ActiveCfg = Release
+		{8000BD0E-78C0-4FA7-84E6-056881DE0A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8000BD0E-78C0-4FA7-84E6-056881DE0A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8000BD0E-78C0-4FA7-84E6-056881DE0A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8000BD0E-78C0-4FA7-84E6-056881DE0A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0752503-C2AD-4463-B687-C8E6EEEC8839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0752503-C2AD-4463-B687-C8E6EEEC8839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0752503-C2AD-4463-B687-C8E6EEEC8839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0752503-C2AD-4463-B687-C8E6EEEC8839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

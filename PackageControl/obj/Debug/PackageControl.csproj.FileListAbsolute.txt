@@ -1,0 +1,16 @@
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Debug\PackageControl.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Debug\PackageControl.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.Properties.Resources.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.csproj.GenerateResource.Cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.Main.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.Designation.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.Menu.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Debug\NetCfLibrary.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Debug\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.ScanHeader.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.ScanGroup.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Debug\PackageControl.Legends.resources

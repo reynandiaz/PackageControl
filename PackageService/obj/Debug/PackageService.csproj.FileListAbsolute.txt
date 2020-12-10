@@ -1,0 +1,5 @@
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageService\bin\PackageService.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageService\bin\PackageService.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageService\obj\Debug\PackageService.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageService\obj\Debug\PackageService.pdb

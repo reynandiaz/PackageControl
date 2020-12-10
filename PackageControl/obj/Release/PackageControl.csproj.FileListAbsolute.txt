@@ -1,0 +1,16 @@
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\ResolveAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.Designation.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.Legends.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.Main.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.Menu.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.Properties.Resources.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.ScanGroup.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.ScanHeader.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.csproj.GenerateResource.Cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Release\PackageControl.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Release\PackageControl.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Release\NetCfLibrary.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\bin\Release\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\PackageControl\obj\Release\PackageControl.pdb
